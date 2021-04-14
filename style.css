@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=New+Tegomin&display=swap');
+
+
+
+
+body{
+    background-color: rgb(46, 45, 45) ;
+    font-family: 'Lobster', cursive !important;
+    
+}
+
+footer{
+    background-color: hotpink;
+}
